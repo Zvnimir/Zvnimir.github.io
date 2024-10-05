@@ -172,7 +172,6 @@ th {
 p {
   word-break: break-word;
   word-wrap: break-word;
-  hyphens: auto;
 }
 
 img, video {
